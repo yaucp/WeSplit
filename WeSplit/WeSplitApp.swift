@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Main code that runs that it launch!
 @main
 struct WeSplitApp: App {
     var body: some Scene {
